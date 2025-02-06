@@ -12,7 +12,7 @@
 						<h2>SELAMAT DATANG ( <?php echo $_SESSION['username'];?> )</h2>
 						<p>Dasboard admin Fruitshop </p>
 						<p><a class="btn btn-warning btn-lg" href="tampil-produk.php" role="button">Data Produk</a>
-						<a class="btn btn-danger btn-lg" href="profile.php"role="button">Profile</a></p>
+						<a class="btn btn-primary btn-lg" href="profile.php"role="button">Profile</a></p>
 				</div>
       </div>
 		</div>
