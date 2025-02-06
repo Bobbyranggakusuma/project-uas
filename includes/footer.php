@@ -27,7 +27,7 @@
         </div>
       </div>
     </footer>
-    <script src="./boostrap/jquery/dist/jquery.min.js"></script>
-    <script src="./boostrap/bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/jquery/dist/jquery.min.js"></script>
+    <script src="bootstrap/bootstrap/js/bootstrap.min.js"></script>
   </body>
 </html>
