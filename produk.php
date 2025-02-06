@@ -33,7 +33,7 @@
                         <span class="glyphicon glyphicon-star-empty"></span>
                     </p>
                     <div class="product-buttons">
-                        <button class="btn btn-primary">Buy Now</button>
+                        <button class="btn btn-info">Buy Now</button>
                         <button class="btn btn-success">Add to Cart</button>
                     </div>
                 </div>
